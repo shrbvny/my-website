@@ -13,3 +13,5 @@ Update made on github before rebase
 
 ## Repository Purpose
 This file is just a readme file
+
+New changes for tag rename example
