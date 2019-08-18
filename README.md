@@ -15,3 +15,5 @@ Update made on github before rebase
 This file is just a readme file
 
 New changes for tag rename example
+
+## Getting Started
